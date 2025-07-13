@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My central mission is to leverage AI to make foundational societal systems more effective and accessible. Law and education are pillars of a fair society, yet these text-heavy domains present immense challenges in efficiency and access that AI is uniquely positioned to address. My work moves beyond simply applying technology to problems; it involves building and evaluating language technologies that empower people, from legal professionals and their clients to students and educators from all backgrounds.
+My central mission is to leverage AI, specifically language technologies, to make foundational societal systems more effective and accessible. Law and education are pillars of a fair society, yet these text-heavy domains present immense challenges in efficiency and access that AI is uniquely positioned to address. My work involves building and evaluating language technologies that empower people, from legal professionals and their clients to students and educators from all backgrounds.
 
-My research is organized around two interconnected themes that bring this vision to life:
+My research is organized around two interconnected themes:
 - **AI for institutional effectiveness** -This line of work focuses on augmenting the capabilities of legal professionals and making legal systems function more fairly. This includes [performing complex semantic analysis of legal documents](https://arxiv.org/pdf/2306.13906) at a level comparable to trained human experts, or developing [methods for empirical legal analysis](https://ebooks.iospress.nl/doi/10.3233/FAIA230965).
 - **AI for fairness and access** - This thrust is dedicated to empowering individuals. In the legal sphere, this means building tools that help ordinary people [navigate complex legal issues](https://link.springer.com/article/10.1007/s10506-021-09293-5). In education, I have been leveriging generative AI to enable adaptive and more accessible [learning environments](https://dl.acm.org/doi/abs/10.1145/3631802.3631830). 
 

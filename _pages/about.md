@@ -1,56 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Human-Centered AI for Foundational Societal Systems"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My central mission is to leverage AI to make foundational societal systems more effective and accessible. Law and education are pillars of a fair society, yet these text-heavy domains present immense challenges in efficiency and access that AI is uniquely positioned to address. My work moves beyond simply applying technology to problems; it involves building and evaluating language technologies that empower people, from legal professionals and their clients to students and educators from all backgrounds.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research is organized around two interconnected themes that bring this vision to life:
+- **AI for institutional effectiveness** -This line of work focuses on augmenting the capabilities of legal professionals and making legal systems function more fairly. This includes [performing complex semantic analysis of legal documents](https://arxiv.org/pdf/2306.13906) at a level comparable to trained human experts, or developing [methods for empirical legal analysis](https://ebooks.iospress.nl/doi/10.3233/FAIA230965).
+- **AI for fairness and access** - This thrust is dedicated to empowering individuals. In the legal sphere, this means building tools that help ordinary people [navigate complex legal issues](https://link.springer.com/article/10.1007/s10506-021-09293-5). In education, I have been leveriging generative AI to enable adaptive and more accessible [learning environments](https://dl.acm.org/doi/abs/10.1145/3631802.3631830). 
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- Researcher Associate (Faculty), [Technology for Effective and Efficient Learning (TEEL) Lab](https://teel.cs.cmu.edu/), Computer Science Department at Carnegie Mellon University, 2022.9 - Present
+- Post-doctoral Researcher, [Computer Science Department](https://csd.cmu.edu/) at Carnegie Mellon University, 2020.9 - 2022.8
+- Ph.D., [Intelligent Systems Program](https://www.isp.pitt.edu/) at University of Pittsburgh, 2013 - 2020
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Teaching
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- [11-667 Large Language Models Methods and Applications](https://cmu-llms.org/) is a graduate-level course that aims to provide a holistic view of the current state of LLMs. The course is designed to give graduate-level students an overview of the techniques behind LLMs and a thorough grounding on the fundamentals and cutting-edge developments of LLMs, to prepare them for further research or applied endeavors in this domain.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Recent Projects
+======
+- **Carnegie Mellon Accenture Center of Excellence for AI (ACE-AI)** - A collaboration between [Accenture](https://www.accenture.com/us-en) and Carnegie Mellon University focused on addressing critical challenges in workforce development. The center is built on three pillars: AI for coaching and tutoring, AI for training content development, and AI for learning analytics. My role is a co-PI.
+- **AI Technicians** - A collaboration between the [U.S. Army's Artificial Intelligence Integration Center (AI2C)](https://www.t2.army.mil/T2-Laboratories/Designated-Laboratories/Artificial-Intelligence-Integration-Center/) and Carnegie Mellon University to design, implement and evaluate novel rapid occupational training methods to create a competitive AI workforce at the technicians level. My role is a co-PI.
+- **AI Institute for Societal Decision Making (AI-SDM)** - The [institute](https://www.cmu.edu/ai-sdm/) brings together AI and social sciences researchers to develop human-centric AI for societal good that harnesses the power of data and an improved understanding of human decisions to create better and more trusted choices. The TEEL lab’s role in AI-SDM is to develop and deliver an AI Literacy curriculum targeted towards non-STEM learners with a high school education.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Recent Service
+======
+- Vice-president, [International Association for Artificial Intelligence and Law (IAAIL)](http://www.iaail.org/)
+- Organizer, [AI for Access to Justice Workshop](https://suffolklitlab.org/events/ai-for-access-to-justice-at-icail25/) at the International Conference on AI and Law 2025 (AI4A2J-ICAIL25)
+- Program Chair, [JURIX 2024: 37th International Conference on Legal Knowledge and Information Systems](https://jurix2024.law.muni.cz/)
+- Editor, [Artificial Intelligence and Law](https://link.springer.com/journal/10506)

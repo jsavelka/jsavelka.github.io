@@ -23,9 +23,9 @@ repository               : "jsavelka/jsavelka.github.io"
 author:
   # Biographic information
   avatar           : "js.jpeg"
-  name             : "Jaromir Savelka"
+  name             : # empty
   pronouns         : # example: "she/her"  
-  bio              : "I am a researcher associate in the Computer Science Department at Carnegie Mellon University. I am interested in the intersection of Natural Language Processing and society. My work focuses on developing human-centered AI to improve the fairness, accessibility, and effectiveness of foundational systems like law and education. I build and evaluate language technologies that empower legal professionals, expand access to justice, and create more adaptive and accessible learning environments."
+  bio              : # empty
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL

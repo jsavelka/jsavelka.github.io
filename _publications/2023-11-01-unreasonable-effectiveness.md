@@ -1,0 +1,14 @@
+---
+title: "The Unreasonable Effectiveness of Large Language Models in Zero-shot Semantic Annotation of Legal Texts"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-11-01-unreasonable-effectiveness
+excerpt: "We examine the performance of GPT-4 and GPT-3.5-turbo(-16k), comparing it to the previous generation of GPT models, on three legal text annotation tasks involving diverse documents such as adjudicatory opinions, contractual clauses, or statutory provisions. We also compare the models' performance and cost to better understand the trade-offs."
+date: 2023-11-01
+venue: 'Frontiers in Artificial Intelligence'
+slidesurl: # not available
+paperurl: 'https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1279794/full'
+citation: 'Savelka, Jaromir, and Kevin D. Ashley. "The unreasonable effectiveness of large language models in zero-shot semantic annotation of legal texts." <i>Frontiers in Artificial Intelligence 6</i> (2023): 1279794.'
+---
+
+The emergence of ChatGPT has sensitized the general public, including the legal profession, to large language models' (LLMs) potential uses (e.g., document drafting, question answering, and summarization). Although recent studies have shown how well the technology performs in diverse semantic annotation tasks focused on legal texts, an influx of newer, more capable (GPT-4) or cost-effective (GPT-3.5-turbo) models requires another analysis. This paper addresses recent developments in the ability of LLMs to semantically annotate legal texts in zero-shot learning settings. Given the transition to mature generative AI systems, we examine the performance of GPT-4 and GPT-3.5-turbo(-16k), comparing it to the previous generation of GPT models, on three legal text annotation tasks involving diverse documents such as adjudicatory opinions, contractual clauses, or statutory provisions. We also compare the models' performance and cost to better understand the trade-offs. We found that the GPT-4 model clearly outperforms the GPT-3.5 models on two of the three tasks. The cost-effective GPT-3.5-turbo matches the performance of the 20× more expensive text-davinci-003 model. While one can annotate multiple data points within a single prompt, the performance degrades as the size of the batch increases. This work provides valuable information relevant for many practical applications (e.g., in contract review) and research projects (e.g., in empirical legal studies). Legal scholars and practicing lawyers alike can leverage these findings to guide their decisions in integrating LLMs in a wide range of workflows involving semantic annotation of legal texts.
